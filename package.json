@@ -1,0 +1,22 @@
+{
+  "name": "@kevinbalibrea/modal-plugin-kevin-b",
+  "version": "1.0.0",
+  "description": "modalbox",
+  "main": "./Modal/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ultivenik/modalPlugin.git"
+  },
+  "keywords": [
+    "\"modal\""
+  ],
+  "author": "Kevin Balibrea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ultivenik/modalPlugin/issues"
+  },
+  "homepage": "https://github.com/Ultivenik/modalPlugin#readme"
+}
